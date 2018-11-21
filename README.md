@@ -9,3 +9,5 @@
 .rec файлы для тренировочной и тестовой выборок доступны по следующим ссылкам соответственно:
 * https://drive.google.com/open?id=14GaALUALHFNrG5ehBQXdA85AkixXLMxW
 * https://drive.google.com/open?id=1GuDhh0T0p0YMA71I5ZfZOazIswkZWzrq
+
+* Лабораторная № 3: Разработка сверточных нейронных сетей.
